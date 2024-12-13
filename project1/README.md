@@ -36,7 +36,7 @@
 
 -구성도
 
-![구성도](images/구성도.drawio.png)
+![구성도](images/구성도.png)
 
 - flowchart
   
